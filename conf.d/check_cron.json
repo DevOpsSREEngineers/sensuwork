@@ -3,7 +3,7 @@
     "cron": {
       "command": "check-process.rb -p cron",
       "subscribers": [
-        "production"
+        "ubuntu"
       ],
       "interval": 60
     }
