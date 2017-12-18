@@ -1,0 +1,11 @@
+{
+    "influxdb": {
+        "hosts"         : ["influxdb.familyguy.com"],
+        "host"          : "influxdb.familyguy.com",
+        "port"          : "8086",
+        "username"      : "admin",
+        "password"      : "admin",
+        "database"      : "sensu",
+	"ssl_enable": false
+    }
+}
